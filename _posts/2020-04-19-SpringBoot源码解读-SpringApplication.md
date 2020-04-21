@@ -1,6 +1,7 @@
 ---
 title: SpringBoot源码解读-SpringApplication
-layout: default
+layout: post
+category: SpringBoot
 ---
 
 >SpringBoot可以说是目前为止应用最广泛的java框架之一了,不但功能强大,而且使用简单.  
